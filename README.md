@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Objective](#objective)
-* [Learning Outcomes](#learning_outcomes)
+* [Learning Outcome](#learning_outcome)
 * [Reflection](#reflection)
 
 ## Objective
