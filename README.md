@@ -1,7 +1,6 @@
 # FTX Collapse Analysis
 
-This anayslsis was third year project carried as part of my Behavioural Economics moduel. Please find the PDF file enclosed in this repository to see my work.
-
+This third-year university project in Behavioral Economics involved researching the collapse of the crypto exchange, FTX. The resulting essay discusses findings from both classical and behavioral finance perspectives. Please find the PDF file in the repository for details.
 
 ## Table of contents
 * [Objective](#objective)
@@ -15,7 +14,7 @@ This anayslsis was third year project carried as part of my Behavioural Economic
 - Word Limit (1500 &pm;25%)
 	
 ## Learning Outcome
-
+-
 
 ## Reflection 
 
