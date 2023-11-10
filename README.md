@@ -8,7 +8,7 @@ This third-year university project in Behavioral Economics involved researching 
 * [Reflection](#reflection)
 
 ## Objectives
-Following is a list of my project objectives:
+Following is a list of objectives for this project:
 - Create a short timeline of the FTXs collapse
 - Perfrom a anaylsis of the colapse of FTX; touch on both classical and behavioural reasons
 - Provided 3 challenges and regulatory priority to safeguard the orderly financial market that embraces crypto trading
