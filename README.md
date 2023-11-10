@@ -7,16 +7,22 @@ This third-year university project in Behavioral Economics involved researching 
 * [Learning Outcome](#learning_outcome)
 * [Reflection](#reflection)
 
-## Objective
+## Objectives
 - Create a short timeline of the FTXs collapse
 - Perfrom a anaylsis of the colapse of FTX; touch on both classical and behavioural reasons
 - Provided 3 challenges and regulatory priority to safeguard the orderly financial market that embraces crypto trading
 - Word Limit (1500 &pm;25%)
 	
-## Learning Outcome
-- The effect of differnt risk measurement (VaR and expected shortfall) of assset and libability
-- 
+## Learning Outcomes
+- Cryptocurrency & Cryptocurrency Exchange
+- FTX & FTT
+- The effect of different risk measurements (VaR and expected shortfall) for assets and liabilities
+- Information efficiency & Efficient Market Hypothesis
+- Utility theory
+- Cognitive biases: availability bias, representative bias, herding bias
+- Public sentiment
+- Financial regulations
+- Bitcoin's white paper  
 
-
-## Reflection 
+## Reflection
 
