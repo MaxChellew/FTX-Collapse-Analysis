@@ -16,6 +16,9 @@ This anayslsis was third year project carried as part of my Behavioural Economic
 	
 ## Learning Outcome
 
+```math
+a^2+b^2=c^2
+```
 	
 ## Reflection 
 
