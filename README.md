@@ -3,9 +3,9 @@
 This third-year university project in Behavioral Economics involved researching the collapse of the crypto exchange, FTX. The resulting essay discusses findings from both classical and behavioral finance perspectives. Please find the PDF file in the repository for details.
 
 ## Table of contents
-* [Objective](#objective)
-* [Learning Outcome](#learning_outcome)
-* [Reflection](#reflection)
+[Objective](#objective)
+[Learning Outcome](#learning_outcome)
+[Reflection](#reflection)
 
 ## Objective
 - Create a short timeline of the FTXs collapse
