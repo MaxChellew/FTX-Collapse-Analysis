@@ -1,6 +1,6 @@
 # FTX Collapse Analysis
 
-This was
+This anayslsis was third year project carried as part of of my Behavioural Economics moduel.
 
 ## Table of contents
 * [Objective](#objective)
