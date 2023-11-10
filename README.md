@@ -12,7 +12,7 @@ This anayslsis was third year project carried as part of my Behavioural Economic
 - Create a short timeline of the FTXs collapse
 - Perfrom a anaylsis of the colapse of FTX; touch on both classical and behavioural reasons
 - Provided 3 challenges and regulatory priority to safeguard the orderly financial market that embraces crypto trading
-- Word Limit (1500 $\ps$25%)
+- Word Limit (1500 ```math \ps```25%)
 	
 ## Learning Outcome
 
