@@ -6,7 +6,7 @@ This third-year university project in Behavioral Economics involved researching 
 1. [Objectives](#objectives)
 2. [Key Takeaways](#key_takeaways)
 
-<a name="objectives"></a>
+
 ## Objectives
 Following is a list of objectives for this project:
 - Create a short timeline of the FTXs collapse
