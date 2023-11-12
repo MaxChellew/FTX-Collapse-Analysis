@@ -7,7 +7,7 @@ This third-year university project in Behavioral Economics involved researching 
 2. [Key Takeaways](#key_takeaways)
 
 <a name="objectives"></a>
-## 1. Objectives
+## Objectives
 Following is a list of objectives for this project:
 - Create a short timeline of the FTXs collapse
 - Perfrom a anaylsis of the colapse of FTX; touch on both classical and behavioural reasons
@@ -15,7 +15,7 @@ Following is a list of objectives for this project:
 - Word Limit (1500 &pm;25%)
 - 
 <a name="key_takeaways"></a>
-## 2. Key Takeaways
+## Key Takeaways
 Following is a list of the knowledge I acquired from completing this project:
 - Cryptocurrency
 - Cryptocurrency Exchange
