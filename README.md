@@ -1,11 +1,10 @@
 # FTX Collapse Analysis
 
-This third-year university project in Behavioral Economics involved researching the collapse of the crypto exchange, FTX. The resulting essay discusses findings from both a classical and behavioral finance perspective as well as touches upon the idea of reglatory oversight on cyrpto-curency exchanges. Please find the PDF file in the repository to read this essay.
+This third-year university project in Behavioral Economics involved researching the collapse of the crypto exchange, FTX. The resulting essay outlines a breif timeline of the colapse of FTX and discusses findings from both a classical and behavioral finance perspective. The esay also touches upon the idea of reglatory oversight on cyrpto-curency exchanges. Please find the PDF file in the repository to read this essay.
 
 ## Table of contents
-* [Objective](#objective)
+* [Objectives](#objectives)
 * [Key Takeaways](#key_takeaways)
-* [Reflection](#reflection)
 
 ## Objectives
 Following is a list of objectives for this project:
@@ -16,17 +15,13 @@ Following is a list of objectives for this project:
 	
 ## Key Takeaways
 Following is a list of the knowledge I acquired from completing this project:
-- Cryptocurrency & Cryptocurrency Exchange
+- Cryptocurrency
+- Cryptocurrency Exchange
 - FTX & FTT
-- The effect of different risk measurements (VaR and expected shortfall) for assets and liabilities
+- The effect of drastically different risk measurements (VaR and expected shortfall) for assets and liabilities
 - Information efficiency & Efficient Market Hypothesis
 - Utility theory
 - Cognitive biases: availability bias, representative bias, herding bias
 - Public sentiment
 - Financial regulations
 - Bitcoin's white paper  
-
-## Reflection
-Following is a list of the constructive cristism i would give my self for this project:
-- 
-
